@@ -1,4 +1,3 @@
-# Mini-Tambola-Game-Caller_23CSE383_SEC_F
 # Mini Tambola Game Caller 🎲
 
 A simple command-line Python script that simulates the "Caller" in a game of Tambola (Housie). This program generates random numbers, tracks the game progress, and ensures no number is repeated.
